@@ -182,3 +182,6 @@ Access to property details and communication features is **subscription-based** 
 
 3. **Admin Flow:**
    Approve Listings → Verify Landlords → Manage Subscriptions → Handle Reports → Generate Reports
+
+<img width="2210" height="1630" alt="image" src="https://github.com/user-attachments/assets/937db6fb-0450-497b-872f-e6b357848889" />
+
