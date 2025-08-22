@@ -1,6 +1,3 @@
-Here’s a **detailed application outline for MbendeStay**, structured in a way that developers can directly use as a reference when building the platform. I’ve broken it down into **core modules, user flows, features, security, pricing options, and rules**.
-
----
 
 # **MbendeStay Real Estate Platform – Application Outline**
 
